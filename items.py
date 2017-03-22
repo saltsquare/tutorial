@@ -6,9 +6,17 @@
 # http://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+rgtred
+
+fdgg
+g
+dfgg
+
+
+
 
 
 class TutorialItem(scrapy.Item):
-    # define the fields for your item here like:
+    # define thedffdsf fields for your item here like:
     # name = scrapy.Field()
     pass
